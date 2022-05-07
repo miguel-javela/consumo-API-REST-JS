@@ -12,7 +12,7 @@ fetch(API_URL)
     })
 
 async function cambiarImagen (){
-    const API_URL = "https://api.thecatapi.com/v1/images/search?limit=3"
+    const API_URL = "https://api.thecatapi.com/v1/images/search?limit=3&api_key=d2945296-d352-499f-90c3-710dfe04b855"
     const response = await fetch (API_URL);
     data = await response.json();
 
