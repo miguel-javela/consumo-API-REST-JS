@@ -1,0 +1,24 @@
+{
+  "name": "consumo-api-rest-js",
+  "version": "1.0.0",
+  "description": "curso de consumo de API REST con JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguel-javela/consumo-API-REST-JS.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "API",
+    "REST"
+  ],
+  "author": "miguel javela <migueljavela2014@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miguel-javela/consumo-API-REST-JS/issues"
+  },
+  "homepage": "https://github.com/miguel-javela/consumo-API-REST-JS#readme"
+}
